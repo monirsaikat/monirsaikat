@@ -39,7 +39,7 @@
 ## 📬 Reach Me
 <div align="left">
 🔗 GitHub: https://github.com/monirsaikat
-✉️ Email: monirsaikat1@gmail.com
 </div>
-
-<p align="center">🔥 Always building. Always shipping. Always learning.</p>
+<br />
+<br />
+<p align="center" style="font-size: 2rem; font-wegith: bold;">🔥 Always building. Always shipping. Always learning.</p>
