@@ -8,15 +8,9 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=monirsaikat&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="155" src="https://streak-stats.demolab.com?user=monirsaikat&theme=tokyonight&hide_border=true" />
-
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirsaikat&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+![GitHub Stats](https://ghstats1.netlify.app/.netlify/functions/github-stats?user=monirsaikat)
+ 
 
 ---
 
