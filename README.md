@@ -9,18 +9,18 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://ghstats1.netlify.app/.netlify/functions/github-stats?user=monirsaikat)
- 
+![GitHub Stats](https://ghstats1.netlify.app/.netlify/functions/github-stats?user=monirsaikat&theme=ocean)
 
 ---
 
 ## 🛠️ Tech Stack
-💻 Backend: Laravel, PHP, MySQL, Prisma
-🎨 Frontend: React.js, Next.js, TailwindCSS, Zustand, Inertia.js, Bootstrap, jQuery
-🖥 Desktop Apps: Electron, ERB, uiohook, Day.js, Node, PyQt
-📱 Mobile: React Native
-⚙️ DevOps: PM2, Nginx, Apache, Linux, CentOS, Ubuntu, GitHub Actions
-🎯 Tools: VSCode, Postman, Docker, Figma
+💻 Backend: Laravel, PHP, MySQL, Prisma </br>
+🎨 Frontend: React.js, Next.js, TailwindCSS, Zustand, Inertia.js, Bootstrap, jQuery </br>
+🖥 Desktop Apps: Electron, ERB, uiohook, Day.js, Node, PyQt </br>
+📱 Mobile: React Native </br>
+⚙️ DevOps: PM2, Nginx, Apache, Linux, CentOS, Ubuntu, GitHub Actions </br>
+🎯 Tools: VSCode, Postman, Docker, Figma </br>
+
 
 
 ## 📈 What I Love to Build
