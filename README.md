@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey, I'm Saikat</h1>
+<h1 align="center"> Hey, I'm Saikat</h1>
 <p align="center">
   Full-Stack Dev • Laravel • React • Next.js • Electron • Tailwind
   <br/>
