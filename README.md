@@ -2,7 +2,7 @@
 <p align="center">
   Full-Stack Dev • Laravel • React • Next.js • Electron • Tailwind
   <br/>
-  Building SaaS • Desktop Applications • CMS • Editors • and Digital Magic ✨
+  Building SaaS • Desktop Applications • CMS • Editors • and Digital Magic 
 </p>
 
 ---
